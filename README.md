@@ -2,8 +2,8 @@
 List of preprints deposited to bioRxiv with some metadata to them.
 
 ## Scripts
-- [Scrape preprints and save as a data frame.ipynb](Scrape preprints and save as a data frame.ipynb): For scraping details from biorXiv
-- [Generate summary plots.ipynb](Generate summary plots.ipynb): To generate summary plots using the scraped data
+- [Scrape preprints and save as a data frame.ipynb](Scrape%20preprints%20and%20save%20as%20a%20ata%20frame.ipynb): For scraping details from biorXiv
+- [Generate summary plots.ipynb](Generate%20summary%20plots.ipynb): To generate summary plots using the scraped data
 
 ## Plots
 ![Number of preprints per month](num-of-preprints-per-month.png)
