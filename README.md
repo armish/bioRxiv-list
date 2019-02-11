@@ -11,3 +11,7 @@ List of preprints deposited to bioRxiv with some metadata to them.
 ![Number of preprints per month per category](num-of-preprints-per-month-per-category.png)
 
 ![Monthly trends](monthly-trends.png)
+
+![Number of preprints per month per day](monthly-num-of-preprints-per-month-daily.png)
+
+![Daily trends](daily-trends.png)
